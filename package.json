@@ -1,0 +1,19 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbsoylemez/react-course.git"
+  },
+  "author": "hüseyin_burak_soylemez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hbsoylemez/react-course/issues"
+  },
+  "homepage": "https://github.com/hbsoylemez/react-course#readme"
+}
